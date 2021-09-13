@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kadet77rus
-- 👀 I’m interested in AdGuard
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - kadet77rus@gmail.com
 
 <!---
